@@ -1,3 +1,3 @@
-# pydatacyprus.github.io
+# PyData Cyprus
 
 Website under construction
